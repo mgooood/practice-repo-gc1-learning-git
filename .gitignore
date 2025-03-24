@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs (e.g., PhpStorm, WebStorm)
+.idea/
+
+# Log files
+*.log
+
+# Node.js modules (if you're using Node)
+node_modules/
+
+# Python bytecode
+__pycache__/
+*.pyc
